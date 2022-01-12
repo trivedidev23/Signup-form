@@ -90,3 +90,10 @@ body {
   text-align: center;
   margin-top: -15px;
 }
+
+@media only screen and (max-width: 600px) {
+  .login_form {
+    padding-left: 60px !important;
+    padding-right: 50px !important;
+  }
+}

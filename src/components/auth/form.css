@@ -1,0 +1,91 @@
+body {
+  background: black !important;
+}
+
+.login_form {
+  background: #242424;
+  margin-top: 10%;
+  border-radius: 25px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 50px;
+}
+.form_input {
+  background: #242424 !important;
+  border-radius: 50px !important;
+  border-width: 0.2em !important;
+  border-color: #10ff8d !important;
+}
+.form-check-label {
+  color: white;
+}
+.form-check-input {
+  margin-right: 4px;
+}
+
+.form-check {
+  align-items: center;
+}
+.form-group {
+  padding-bottom: 15px;
+}
+.submit_btn {
+  color: black !important;
+  background: #10ff8d !important;
+  border-radius: 25px !important;
+  border: none !important;
+  width: 50% !important;
+  margin-bottom: 50px;
+}
+.tandc {
+  color: #10ff8d;
+}
+
+.account {
+  text-align: center;
+  color: white !important;
+  padding-bottom: 15px;
+}
+
+.label-hed {
+  color: white !important;
+  padding-bottom: 2px;
+  padding-left: 15px;
+}
+
+.nav-link.active {
+  background: #10ff8d !important;
+  border-radius: 50px !important;
+  color: black !important;
+  z-index: 1;
+  margin-right: -20px;
+  margin-left: -20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.nav-link {
+  background: black !important;
+  border-radius: 50px !important;
+  color: white !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  z-index: 0;
+}
+
+.nav {
+  justify-content: center;
+  padding-bottom: 35px;
+}
+
+.err {
+  color: rgb(180, 28, 28) !important;
+  padding-left: 15px;
+  margin-top: -15px;
+}
+
+.err-checkbox {
+  color: rgb(180, 28, 28) !important;
+  text-align: center;
+  margin-top: -15px;
+}

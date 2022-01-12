@@ -15,6 +15,7 @@ body {
   border-radius: 50px !important;
   border-width: 0.2em !important;
   border-color: #10ff8d !important;
+  color: grey !important;
 }
 .form-check-label {
   color: white;
